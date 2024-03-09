@@ -1,3 +1,3 @@
 # Launcher
 
-## current version 1.4.0
+## current version 1.4.1
